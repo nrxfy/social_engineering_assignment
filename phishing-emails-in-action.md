@@ -8,35 +8,35 @@ This exercise focuses on understanding how phishing emails are crafted to deceiv
 
 The phishing emails analyzed use several techniques such as:
 
-*Urgency (asking users to act immediately)
+* Urgency (asking users to act immediately)
 
-*Authority (pretending to be a trusted organization)
+* Authority (pretending to be a trusted organization)
 
-*Fear (threats of account suspension)
+* Fear (threats of account suspension)
 
-*Trust spoofing (fake logos and email addresses)
+* Trust spoofing (fake logos and email addresses)
 
 3. Indicators of Phishing
 
 Some indicators that help identify phishing emails include:
 
-*Suspicious sender email addresses
+* Suspicious sender email addresses
 
-*Grammar and spelling mistakes
+* Grammar and spelling mistakes
 
-*Unknown or shortened links
+* Unknown or shortened links
 
-*Requests for personal or login information
+* Requests for personal or login information
 
 4. Impact on Users
 
 If users fall victim to phishing attacks, attackers may gain access to:
 
-*Login credentials
+* Login credentials
 
-*Personal data
+* Personal data
 
-*Financial information
+* Financial information
 
 5. Conclusion
 
